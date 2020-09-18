@@ -16,11 +16,19 @@
         "addresses": [
             {
                 "name": "city",
-                "website": "http://mydata-kamloops.opendata.arcgis.com/",
-                "data": "https://geoprodsvr.kamloops.ca/arcgis3/rest/services/OpenData/OpenDataAdminCadDev/MapServer/12",
-                "protocol": "ESRI",
+                "website": "http://mydata-kamloops.opendata.arcgis.com/datasets/address-point",
+                "data": "https://opendata.arcgis.com/datasets/f5168877df57471bb71b0095b4f328a0_12.zip?outSR=%7B%22latestWkid%22%3A3157%2C%22wkid%22%3A3157%7D",
+                "license": {
+                    "url": "https://www.kamloops.ca/node/29807",
+                    "text": "Contains information licensed under the Open Government Licence - Kamloops.",
+                    "attribution name": "Open Government Licence - Kamloops",
+                    "attribution": true,
+                    "share-alike": false
+                },
+                "protocol": "http",
+                "compression": "zip",
                 "conform": {
-                    "format": "geojson",
+                    "format": "shapefile",
                     "unit": "SUITENO",
                     "number": "STREETNO",
                     "street": [
