@@ -16,16 +16,19 @@
         "addresses": [
             {
                 "name": "city",
-                "data": "https://services5.arcgis.com/frpHL0Fv8koQRVWY/ArcGIS/rest/services/Parcels/FeatureServer/0",
-                "website": "http://www.tol.ca/Services-Contact/Open-Data/Open-Data-Catalogue",
+                "data": "https://opendata.arcgis.com/datasets/a9c5323b8fd8480c85e7e35111be6568_0.zip?outSR=%7B%22latestWkid%22%3A26910%2C%22wkid%22%3A26910%7D",
+                "website": "http://data-tol.opendata.arcgis.com/datasets/parcels",
                 "license": {
-                    "url": "http://opendatacommons.org/licenses/pddl/1.0/",
-                    "attribution": false,
+                    "url": "https://www.tol.ca/connect/talk-to-us/freedom-of-information/open-data-license/",
+                    "text": "Contains information licensed under the Open Government License – Township of Langley.",
+                    "attribution name": "Open Government License – Township of Langley"
+                    "attribution": true,
                     "share-alike": false
                 },
-                "protocol": "ESRI",
+                "protocol": "http",
+                "compression": "zip",
                 "conform": {
-                    "format": "geojson",
+                    "format": "shapefile",
                     "number": "HOUSE",
                     "street": "STREET",
                     "city": "CITY"
