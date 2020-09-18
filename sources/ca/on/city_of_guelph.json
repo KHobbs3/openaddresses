@@ -16,12 +16,12 @@
         "addresses": [
             {
                 "name": "city",
-                "data": "https://opendata.arcgis.com/datasets/2bc8323870fe44eab50630404713be6a_0.zip",
-                "website": "https://catalogue-hrm.opendata.arcgis.com/datasets/2bc8323870fe44eab50630404713be6a_0",
+                "data": "http://data.open.guelph.ca/datafiles/gis/Addresses.zip",
+                "website": "http://data.open.guelph.ca/dataset/guelph-addresses",
                 "license": {
-                    "url": "https://www.halifax.ca/home/open-data/open-data-license",
-                    "text": "Contains information licenced - HALIFAX",
-                    "attribution name": "Open Government Licence - Halifax",
+                    "url": "http://data.open.guelph.ca/pages/open-government-licence",
+                    "text": "Contains information provided by the City of Guelph under an open government license",
+                    "attribution name": "City of Guelph Open Government Licence",
                     "attribution": true,
                     "share-alike": false
                 },
