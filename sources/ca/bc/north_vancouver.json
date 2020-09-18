@@ -28,9 +28,15 @@
                     "city": "CITY",
                     "postcode": "POST_CODE"
                 },
-                "data": "http://geoweb.dnv.org/Products/Data/CSV/BldAddress_CSV.zip",
+                "data": "http://geoweb.dnv.org/Products/Data/CSV/BldAddress_csv.zip",
                 "website": "http://geoweb.dnv.org/data/",
-                "license": "http://geoweb.dnv.org/data/#legalModal",
+                "license": {
+                    "url": "http://geoweb.dnv.org/data/#legalModal",
+                    "text": "Contains information licensed under the Open Government Licence - North Vancouver.",
+                    "attribution name": "Open Government Licence for District of North Vancouver Information",
+                    "attribution": true,
+                    "share-alike": false
+                },
                 "skip": true,
                 "note": "No location information included. Click Legal on website to get license.",
                 "protocol": "http",
