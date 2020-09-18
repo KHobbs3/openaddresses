@@ -16,12 +16,19 @@
         "addresses": [
             {
                 "name": "city",
-                "data": "https://services5.arcgis.com/k3dd78JyG9GFoZHG/arcgis/rest/services/Addresses/FeatureServer/0",
-                "website": "http://geodatahub-cityofguelph.opendata.arcgis.com/datasets/addresses-1",
-                "license": "http://geodatahub-cityofguelph.opendata.arcgis.com/pages/terms-of-use",
-                "protocol": "ESRI",
+                "data": "https://opendata.arcgis.com/datasets/2bc8323870fe44eab50630404713be6a_0.zip",
+                "website": "https://catalogue-hrm.opendata.arcgis.com/datasets/2bc8323870fe44eab50630404713be6a_0",
+                "license": {
+                    "url": "https://www.halifax.ca/home/open-data/open-data-license",
+                    "text": "Contains information licenced - HALIFAX",
+                    "attribution name": "Open Government Licence - Halifax",
+                    "attribution": true,
+                    "share-alike": false
+                },
+                "protocol": "http",
+                "compression": "zip",
                 "conform": {
-                    "format": "geojson",
+                    "format": "shapefile",
                     "number": "STREETNO",
                     "street": "STREETNAME",
                     "unit": "UNIT_NO",
