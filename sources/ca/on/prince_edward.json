@@ -21,7 +21,9 @@
                         "UNITTYPE",
                         "UNITID"
                     ],
-                    "district": "MUNICIPALITY"
+                    "district": "MUNICIPALITY",
+
+                    "full_addr": "FULLADDR"
                 }
             }
         ]
