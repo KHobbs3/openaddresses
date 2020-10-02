@@ -35,7 +35,11 @@
                         "StreetType",
                         "StreetDir"
                         ],
-                    "city": "municipality"
+                    "city": "municipality",
+
+                    "str_name": "StreetDir",
+                    "str_type": "StreetName",
+                    "str_dir": "StreetType"
                 }
             }
         ]
