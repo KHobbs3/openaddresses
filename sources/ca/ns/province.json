@@ -34,7 +34,11 @@
                     ],
                     "unit": "unit_num",
                     "city": "comm",
-                    "district": "county"
+                    "district": "county",
+
+                    "str_name": "strname",
+                    "str_type": "strsuffix",
+                    "str_dir": "strdir"
                 }
             }
         ]
