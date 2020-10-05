@@ -37,7 +37,11 @@
                     ],
                     "unit": "Unit",
                     "city": "Municipali",
-                    "postcode": "PostalCode"
+                    "postcode": "PostalCode",
+                    
+                    "str_name": "StreetName",
+                    "str_type": "StreetType",
+                    "str_dir": "StreetDir"
                 }
             }
         ]
