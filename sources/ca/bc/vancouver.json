@@ -23,7 +23,9 @@
                     "file": "property_addresses.shp",
                     "number": "CIVIC_NO",
                     "street": "STREETNAME",
-                    "format": "shapefile"
+                    "format": "shapefile",
+                    
+                    "id": "SITE_ID"
                 }
             }
         ]
