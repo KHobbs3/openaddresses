@@ -20,7 +20,8 @@
                         "pattern": "^([0-9]+(?:\\-[0-9]+)?)(?: .*)"
                     },
                     "street": "STREETNAME",
-                    "format": "shapefile"
+                    "format": "shapefile",
+                    "full_addr": "LOCATION"
                 }
             }
         ]
