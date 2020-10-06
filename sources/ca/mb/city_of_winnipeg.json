@@ -41,7 +41,11 @@
                     "unit": [
                         "unit_type",
                         "unit_numbe"
-                    ]
+                    ],
+                    
+                    "str_name": "street_nam",
+                    "str_type": "street_typ",
+                    "str_dir": "street_dir"
                 }
             }
         ]
