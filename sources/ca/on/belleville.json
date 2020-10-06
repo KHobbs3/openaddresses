@@ -16,10 +16,7 @@
                     "format": "geojson",
                     "number": "ADDRESS_NU",
                     "street": "STREET_N_1",
-                    "city": "CITY",
-                    
-                    "id": "OBJECTID",
-                    "full_addr": "MAILADD1"
+                    "city": "CITY"
                 }
             }
         ]
