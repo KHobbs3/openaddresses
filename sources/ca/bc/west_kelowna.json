@@ -31,7 +31,11 @@
                     ],
                     "unit": "UNIT_NBR",
                     "postcode": "POST_CODE",
-                    "format": "shapefile"
+                    "format": "shapefile",
+                    
+                    "str_name": "NAME",
+                    "str_type": "TYPE",
+                    "str_dir": "PREFIX"
                 }
             }
         ]
