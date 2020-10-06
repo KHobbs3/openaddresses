@@ -37,7 +37,13 @@
                     "unit": [
                         "UNIT_DESIGNATOR",
                         "SUITE_NUMBER"
-                    ]
+                    ],
+                    
+                    "id": "OBJECTID",
+                    "str_name": "STREET_NAME",
+                    "str_type": "STREET_TYPE",
+                    "str_dir": "SUFFIX_DIRECTION",
+                    "full_addr": "MAIL_FULL_ADDRESS_TEXT"
                 }
             }
         ]
