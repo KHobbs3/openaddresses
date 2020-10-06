@@ -29,7 +29,12 @@
                     ],
                     "unit": "Unit",
                     "city": "CITY_VILLE",
-                    "postcode": "Postal_Code"
+                    "postcode": "Postal_Code",
+                    
+                    "id": "CARISKEY",
+                    "str_name": "Street_Nam",
+                    "str_type": "English_Ty",
+                    "full_addr": "Address"
                 }
             }
         ]
