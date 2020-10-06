@@ -29,7 +29,13 @@
                         "SUFFIX",
                         "DIRECTION"
                     ],
-                    "unit": "UNIT"
+                    "unit": "UNIT",
+                    
+                    "id": "FID",
+                    "str_name": "STREET",
+                    "str_type": "SUFFIX",
+                    "str_dir": "DIRECTION",
+                    "full_addr": "ADDRESS"
                 }
             }
         ]
