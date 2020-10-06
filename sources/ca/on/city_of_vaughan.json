@@ -25,7 +25,12 @@
                         "STREETNAME",
                         "SUFFIX"
                     ],
-                    "unit": "UNIT"
+                    "unit": "UNIT",
+                    
+                    "id": "OBJECTID",
+                    "str_name": "STREETNAME",
+                    "str_type": "SUFFIX",
+                    "full_addr": "LOCATION"
                 }
             }
         ]
