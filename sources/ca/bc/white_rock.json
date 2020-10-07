@@ -27,7 +27,7 @@
                 "protocol": "http",
                 "compression": "zip",
                 "conform": {
-                     "file": "GIS/Data/Spatial/Landbase/SHP/Address.shp"
+                     "file": "GIS/Data/Spatial/Landbase/SHP/Address.shp",
                      "format": "shapefile",
                      "number": "Addr_No",
                      "street": "Street",
